@@ -7,6 +7,8 @@ onemt-loading 是一套根据公司不同的后台系统开发的基础样式库
 
 
 ## 颜色配置
+
+![image]()
 - .skin-red [ #B03060 ]
 
 - .skin-orange [ #FE9A76 ]
@@ -27,7 +29,7 @@ onemt-loading 是一套根据公司不同的后台系统开发的基础样式库
   `skin-颜色` 即背景色，icon颜色默认为白色，只有`skin-white`背景色为白色时，icon颜色为公司logo原色橘黄色；
   
   `skin-颜色-Num` 即可以给背景色加透明度，icon透明度不变；
-  
+  
   >> 背景无透明度
 ```
   <div class="loading skin-white">
