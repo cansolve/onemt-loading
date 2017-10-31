@@ -1,46 +1,46 @@
   // 单色
   .skin-red {
       &.loading {
-          background: #B03060;
+          background: #bd3232;
       }
   }
-
+  
   .skin-orange {
       &.loading {
           background: #FE9A76;
       }
   }
-
+  
   .skin-yellow {
       &.loading {
           background: #FFD700;
       }
   }
-
+  
   .skin-green {
       &.loading {
           background: #016936;
       }
   }
-
+  
   .skin-blue {
       &.loading {
           background: #0E6EB8;
       }
   }
-
+  
   .skin-grey {
       &.loading {
           background: #afafaf;
       }
   }
-
+  
   .skin-black {
       &.loading {
           background: #000000;
       }
   }
-
+  
   .skin-white {
       &.loading {
           background: #ffffff;
@@ -114,37 +114,37 @@
       .skin-white-#{$i} {
           &.loading {
               background: rgba(255, 255, 255, $i/10);
-             .loading-con {
-                .loading-one {
-                    span {
-                        background: #f7941e;
-                    }
-                }
-                .loading-two {
-                    span {
-                        border-right: fnrem(14px) solid #f7941e;
-                            background: none;
-                    }
-                }
-                .loading-three {
-                    span {
-                        border-right: fnrem(14px) solid #f7941e;
-                            background: none;
-                    }
-                }
-                .loading-left {
-                    background: #f7941e;
-                }
-                .loading-top {
-                    background: #f7941e;
-                }
-                .loading-right {
-                    background: #f7941e;
-                }
-                .loading-bottom {
-                    background: #f7941e;
-                }
-            }
+              .loading-con {
+                  .loading-one {
+                      span {
+                          background: #f7941e;
+                      }
+                  }
+                  .loading-two {
+                      span {
+                          border-right: fnrem(14px) solid #f7941e;
+                          background: none;
+                      }
+                  }
+                  .loading-three {
+                      span {
+                          border-right: fnrem(14px) solid #f7941e;
+                          background: none;
+                      }
+                  }
+                  .loading-left {
+                      background: #f7941e;
+                  }
+                  .loading-top {
+                      background: #f7941e;
+                  }
+                  .loading-right {
+                      background: #f7941e;
+                  }
+                  .loading-bottom {
+                      background: #f7941e;
+                  }
+              }
           }
       }
   }
