@@ -21,8 +21,32 @@ onemt-loading 是一套根据公司不同的后台系统开发的基础样式库
 
 - .skin-black [ #000000 ]
 
+- .skin-white [ #ffffff ]
 
-
+## 使用方法
+  `skin-颜色` 即背景色，icon颜色默认为白色，只有`skin-white`背景色为白色时，icon颜色为公司logo原色橘黄色；
+  
+  `skin-颜色-Num` 即可以给背景色加透明度，icon透明度不变；
+  
+  --背景无透明度
+```
+  <div class="loading skin-white">
+    <div class="loading-con">
+      ...
+        <span></span>
+    </div>
+  </div>
+```
+  --背景有透明度
+```
+  <div class="loading skin-white-3">
+    <div class="loading-con">
+      ...
+        <span></span>
+    </div>
+  </div>
+```
+  
 ## 贡献
 
 如果你有好的意见或建议，欢迎给我们提issue或pull request，为提升loading体验贡献力量
