@@ -28,7 +28,7 @@ onemt-loading 是一套根据公司不同的后台系统开发的基础样式库
   
   `skin-颜色-Num` 即可以给背景色加透明度，icon透明度不变；
   
-  --背景无透明度
+  >> 背景无透明度
 ```
   <div class="loading skin-white">
     <div class="loading-con">
@@ -37,7 +37,7 @@ onemt-loading 是一套根据公司不同的后台系统开发的基础样式库
     </div>
   </div>
 ```
-  --背景有透明度
+  >> 背景有透明度
 ```
   <div class="loading skin-white-3">
     <div class="loading-con">
