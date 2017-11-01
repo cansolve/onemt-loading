@@ -48,7 +48,7 @@ onemt-loading 是一套根据公司不同的后台系统开发的基础样式库
     </div>
   </div>
 ```
-  
+#### jsx语法中只需要将class换成className即可；
 ## 贡献
 
 如果你有好的意见或建议，欢迎给我们提issue或pull request，为提升loading体验贡献力量
