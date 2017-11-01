@@ -9,7 +9,7 @@ onemt-loading 是一套根据公司不同的后台系统开发的基础样式库
 ## 颜色配置
 
 ![](https://raw.githubusercontent.com/UEDNewbie/onemt-loading/develop/static/image/theme-color.jpg)
-- .skin-red [ #B03060 ]
+- .skin-red [ #Bd3232 ]
 
 - .skin-orange [ #FE9A76 ]
 
